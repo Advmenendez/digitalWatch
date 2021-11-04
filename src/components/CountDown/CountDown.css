@@ -1,0 +1,9 @@
+.countdown {
+  text-align: center;
+  color: red;
+  background-image: url(https://i.pinimg.com/originals/d2/6d/44/d26d44e02ee0547550944ae92e840bef.gif);
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 520px;
+  margin: 17px;
+}
